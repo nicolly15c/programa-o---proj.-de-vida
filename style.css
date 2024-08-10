@@ -1,11 +1,10 @@
 html  {
-height: 100%
+height: 113%
 }
     
 body{
     background:linear-gradient(#ff9d9d, #eeeeee)
 }
-
 
 .cabecalho{
 display: flex;
@@ -19,10 +18,33 @@ font-size: 220% ;
 display: flex;
 justify-content: center; 
 align-items: center; 
-padding: 60px ;
+padding: px ;
 font-size: 150%;
 }
+
 .imgn{
     justify-content: center; 
 
+}
+
+.link{
+display: flex;
+justify-content: center; 
+align-items: center; 
+}
+
+.esplicacao-link{
+display: flex;
+justify-content: center; 
+align-items: center; 
+padding: px ;
+font-size: 120%;
+}
+
+.nome{
+    display: flex;
+justify-content: center; 
+align-items: center; 
+padding: 60px ;
+font-size: 100%;
 }
